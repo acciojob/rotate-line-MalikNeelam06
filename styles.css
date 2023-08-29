@@ -1,27 +1,9 @@
-/*  your css code here. If applicable */
-*{
-	padding:0px;
-	margin:0px;
-	box-sizing:border-box;
-}
-body{
-	display:flex;
-/* 	background-color:yellow */
-}
 #line{
-/* 	border:1px solid black; */
-	height:200px;
-	padding:200px;
-/* 	display:flex; */
-/* 	justify-content:center; */
-/* 	align-item:center; */
+	padding:0px;
+	height:0px;
 }
-#bold{
-/* 	border:2px solid black; */
+hr{
 	height:2px;
 	width:200px;
-/* 	color:black; */
-	background-color:black;
-/* 	line-height:150px; */
-/* 	margin:150px,150px; */
+	color:black;
 }
